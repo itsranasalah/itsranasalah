@@ -1,11 +1,6 @@
-![BkCU (2)](https://user-images.githubusercontent.com/103390154/217389150-1b55eba9-9206-4b56-b631-87207b9b460e.gif)
-
-
-
-
-<img src="(https://i.gifer.com/BkCU.gif))" align="center"
-     width="900" 
-     height="300" />
+<img src="(https://i.gifer.com/BkCU.gif)" align="center"
+     width="100" 
+     height="300"/>
   </div> 
   
 
