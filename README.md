@@ -1,5 +1,5 @@
 <img src="(https://i.gifer.com/BkCU.gif)" align="center"
-     width="100" 
+     width="800" 
      height="300"/>
   </div> 
   
