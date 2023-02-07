@@ -1,6 +1,9 @@
-<iframe src="https://gifer.com/embed/BkCU" width=480 height=269.760 frameBorder="0" allowFullScreen></iframe>
+![BkCU (2)](https://user-images.githubusercontent.com/103390154/217389150-1b55eba9-9206-4b56-b631-87207b9b460e.gif)
 
-<img src="(https://user-images.githubusercontent.com/103390154/217388748-8fb2fdf6-aaf7-4b04-a4a3-0b1d57de8795.gif)" align="center"
+
+
+
+<img src="(https://i.gifer.com/BkCU.gif))" align="center"
      width="900" 
      height="300" />
   </div> 
