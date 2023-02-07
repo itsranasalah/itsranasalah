@@ -1,6 +1,6 @@
 <img src="https://i.gifer.com/BkCU.gif" align="center"
      width="800" 
-     height="300"/>
+     height="300">
   </div> 
   
 
