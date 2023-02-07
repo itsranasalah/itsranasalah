@@ -1,4 +1,4 @@
-<iframe src="https://gifer.com/embed/BkCU" width=480 height=269.760 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<iframe src="https://gifer.com/embed/BkCU" width=480 height=269.760 frameBorder="0" allowFullScreen></iframe>
 
 <img src="(https://user-images.githubusercontent.com/103390154/217388748-8fb2fdf6-aaf7-4b04-a4a3-0b1d57de8795.gif)" align="center"
      width="900" 
