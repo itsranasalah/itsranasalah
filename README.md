@@ -3,7 +3,7 @@
      height="350" />
   </div>
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+Iam+Rana+!" alt="Typing SVG" /></
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+Iam+Rana+!" alt="Typing SVG" />
 
 
 <h2 align="center"> Curious, Determinate and Passionate about coding!</h2>
