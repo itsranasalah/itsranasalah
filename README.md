@@ -34,7 +34,7 @@
 </div>
 
 <p align="center"><br>
- ![WHAT](https://user-images.githubusercontent.com/103390154/217957534-36b1d1aa-93fc-4f9f-8081-0664bca8923f.gif)
+ (https://user-images.githubusercontent.com/103390154/217957534-36b1d1aa-93fc-4f9f-8081-0664bca8923f.gif)
 </p>
  
 
