@@ -34,9 +34,10 @@
 </div>
 
 <p align="center"><br>
-  <img align="center" src="Downloads\WHAT.gif"/> <br>
+ ![WHAT](https://user-images.githubusercontent.com/103390154/217957534-36b1d1aa-93fc-4f9f-8081-0664bca8923f.gif)
 </p>
  
+
 
 
 [![itsranasalah's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=itsranasalah&custom_title=iystanasalah's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
