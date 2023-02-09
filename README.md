@@ -28,7 +28,7 @@
 
 <div align="center">
   <h2> <strong> Actively Learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=,git,linux,,html,css,,c" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=,git,linux,,html,css,c" alt="skills actively learning logos"> <br> 
   <h2> <strong> Plan to Learn </strong></h2>
   <img src="https://skillicons.dev/icons?i=py,react,c#,c++,swift,ruby,js" alt="skills planning to learn logos">
 </div>
@@ -49,15 +49,15 @@
   <h3 align="center">Connect With Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/itsranasalah/" target="_blank">
-    <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
+    <img align="center" alt="linkedin logo" height="50" width="50" src="Downloads/linkedin.png"/>
   </a> &nbsp;&nbsp;
   
-  <a href="https://profile-summary-for-github.herokuapp.com/user/HyunCafe" target="_blank">
-    <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
+  <a href="https://profile-summary-for-github.herokuapp.com/user/itsranasalah" target="_blank">
+    <img align="center" alt="github logo" height="50" width="50" src="github-logo.png"/>
   </a> &nbsp;&nbsp;
   
   <a href="mailto:itsranasalah@gmail.com" target="_blank">
-    <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
+    <img align="center" alt="gmail logo" height="50" width="50" src="Downloads/gmail.png" />
   </a> &nbsp;&nbsp;
   
 </p> 
