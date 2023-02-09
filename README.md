@@ -57,7 +57,7 @@
   </a> &nbsp;&nbsp;
   
   <a href="mailto:itsranasalah@gmail.com" target="_blank">
-    <img align="center" alt="gmail logo" height="50" width="50" src="Downloads/gmail.png" />
+    <img align="center" alt="gmail logo" height="50" width="50" src=["Downloads/gmail.png](https://user-images.githubusercontent.com/103390154/217957316-cbefe22f-a663-4706-a2e3-8b51e6d406d2.png)" />
   </a> &nbsp;&nbsp;
   
 </p> 
