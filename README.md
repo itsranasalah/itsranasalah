@@ -8,7 +8,7 @@
 🙋🏾 This is Rana ... I'm kind of new to programming so I'm still finding my way around things here :)
 
 <h2 align="center"> Curious, Determinate and Passionate about coding!</h2>
-* 📗 I’m currently enrolled in ALX SE (Full Stack 12-months Programme <br>
+* 📗 I’m currently enrolled in ALX SE (Full Stack 12-months) Programme <br>
      - Using Shell and Git at the monent <br>
      - Going through the foundations of computer science <br> <br>
 * :computer: Planning on specializing in the Back End! <br><br>
