@@ -4,7 +4,7 @@
   </div> 
   
 
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+Iam+Rana+!" alt="Typing SVG" allign="center" />
 ### 𝖧𝖾𝗅𝗅𝗈!👋
 This is Rana ... I'm kind of new to programming so I'm still finding my way around things here :)
 
