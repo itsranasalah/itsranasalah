@@ -12,7 +12,7 @@
      - Using Shell and Git at the monent
      - Going through the foundations of computer science<br>
 * :computer: Planning on specializing in the Back End! <br><br>
-* :runner::skin-tone-5:‍:female_sign: Goals : Mastering coding and do some freelancing projects <br><br>
+* :runner: Goals : Mastering coding and do some freelancing projects <br><br>
 * :two_hearts: Interest: Videography, Coding, and Reading Haruki Murakami's Novels. <br><br>
 * :leaves: Hobbies: Sleeping, Anime/Manga, Gacha Games, Discord, and Reddit. <br><br>
 
