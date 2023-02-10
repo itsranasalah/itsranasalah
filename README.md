@@ -8,9 +8,9 @@
 🙋🏾 This is Rana ... I'm kind of new to programming so I'm still finding my way around things here :)
 
 <h2 align="center"> Curious, Determinate and Passionate about coding!</h2>
-* 📗 I’m currently enrolled in ALX SE (Full Stack 12-months Programm
-     - Using Shell and Git at the monent
-     - Going through the foundations of computer science<br>
+* 📗 I’m currently enrolled in ALX SE (Full Stack 12-months Programme <br>
+     - Using Shell and Git at the monent <br>
+     - Going through the foundations of computer science <br>
 * :computer: Planning on specializing in the Back End! <br><br>
 * :runner: Goals : Mastering coding and do some freelancing projects <br><br>
 * :two_hearts: Interest: Videography, Coding, and Reading Haruki Murakami's Novels. <br><br>
