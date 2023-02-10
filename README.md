@@ -5,10 +5,10 @@
   
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+Iam+Rana+!" alt="Typing SVG" allign="center" />
-:woman-raising-hand::skin-tone-5: This is Rana ... I'm kind of new to programming so I'm still finding my way around things here :)
+🙋🏾 This is Rana ... I'm kind of new to programming so I'm still finding my way around things here :)
 
 <h2 align="center"> Curious, Determinate and Passionate about coding!</h2>
-* :large_green_circle: I’m currently enrolled in ALX SE (Full Stack 12-months Programm
+* 📗 I’m currently enrolled in ALX SE (Full Stack 12-months Programm
      - Using Shell and Git at the monent
      - Going through the foundations of computer science<br>
 * :computer: Planning on specializing in the Back End! <br><br>
