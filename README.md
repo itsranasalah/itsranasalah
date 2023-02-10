@@ -7,11 +7,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+Iam+Rana+!" alt="Typing SVG" allign="center" />
 This is Rana ... I'm kind of new to programming so I'm still finding my way around things here :)
 
-A software Engineer in The Making.  
-**<div align="center"></div>**  
-  
-
-
+<h2 align="center"> Curious, Determinate and Passionate about coding!</h2>
+* :large_green_circle: I’m currently enrolled in ALX SE (Full Stack 12-months Programm
+     - Using Shell and Git at the monent
+     - Going through the foundations of computer science<br>
+* :computer: Planning on specializing in the Back End! <br><br>
+* :runner::skin-tone-5:‍:female_sign: Goals : Mastering coding and do some freelancing projects <br><br>
+* :two_hearts: Interest: Videography, Coding, and Reading Haruki Murakami's Novels. <br><br>
+* :leaves: Hobbies: Sleeping, Anime/Manga, Gacha Games, Discord, and Reddit. <br><br>
 
 ### Currently Learning  
 <div align="center">  
