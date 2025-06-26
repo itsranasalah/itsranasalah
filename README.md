@@ -13,7 +13,7 @@
 * :computer: Planning on specializing in the Back End! <br><br>
 * :runner: Goals : Mastering coding and do some freelancing projects <br><br>
 * :two_hearts: Interest: Videography, Coding, and Reading Haruki Murakami's Novels. <br><br>
-* :leaves: Hobbies: Sleeping lol <br><br>
+* :leaves: Hobbies: Photography - ig: @digicamemo <br><br>
 
 ### Currently Learning  
 <div align="center">  
