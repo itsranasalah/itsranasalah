@@ -1,9 +1,3 @@
-<img src="https://i.pinimg.com/originals/f6/d7/b4/f6d7b44774be53bfda7a230b876d127b.gif" align="center"
-     width="850" 
-     height="350" />
-  </div> 
-  
-
 ![image](https://github.com/user-attachments/assets/dae5e85f-c637-44cb-921d-ab7a6d4892fb)
 🙋🏾 This is Rana ... I'm kind of new to programming so I'm still finding my way around things here :)
 
