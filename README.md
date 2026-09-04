@@ -208,24 +208,74 @@ Ask nicely <i>and</i> include a reproduction. Then absolutely.
 
 ---
 
-## 📊 The receipts
+## 🚀 Things I've built
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌀 Optical Flow Playground
+Real-time motion estimation in the browser. Tracks how every pixel moves between frames and draws the vector field over your webcam feed.
+
+`p5.js` `JavaScript` `Computer Vision`
+
+**No CV library.** Every convolution written by hand, because that was the point.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏞️ Panorama Stitcher
+Feeds it overlapping photos, gets back one wide shot. Feature matching, homography, blending — the whole pipeline.
+
+`p5.js` `Image Processing`
+
+**Status:** seams are *mostly* invisible. I'm choosing to call that art.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✂️ Background Remover
+Isolates a subject from its background using colour-space thresholding and edge refinement. Surprisingly effective. Occasionally removes an arm.
+
+`JavaScript` `Image Ops`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎠 Interactive Carousel
+A gallery that actually feels good to use — momentum scrolling, snap points, and easing curves I spent far too long tuning.
+
+`JavaScript` `UI`
+
+**Regret level:** zero. Animation is worth the time.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
+<sub>↑ swap these for your real repos — <code>### 🌀 <a href="LINK">Title</a></code> makes them clickable</sub>
+</div>
 
-<!-- NOTE: these come from a shared public service that gets rate-limited.
-     If a card ever shows as broken, that's the host, not you. -->
+---
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=00000000" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=8" />
+## 🥧 What my codebase is actually made of
 
-<br/>
+```mermaid
+pie showData
+    title Composition, by volume
+    "Code that works" : 34
+    "Code that works and I don't know why" : 26
+    "console.log statements" : 18
+    "Comments saying // TODO: fix this" : 12
+    "Stack Overflow, spiritually" : 8
+    "Tests" : 2
+```
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000" />
-
-<br/><br/>
-
-<sub><i>Contribution graph currently under construction. I code in bursts, like a cicada. 🦗</i></sub>
-
+<div align="center">
+<sub><i>The tests slice is small but it is <b>mighty</b>. (It is not mighty.)</i></sub>
 </div>
 
 ---
