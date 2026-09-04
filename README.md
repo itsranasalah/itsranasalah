@@ -1,75 +1,253 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=while(alive)+%7B+code();+coffee();+repeat();+%7D;Turning+caffeine+into+pixels+since+day+one;404%3A+sleep+not+found" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <em>Hi, I'm Rana 👋 — I make computers do things they weren't strictly asked to do.</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:22D3EE&height=200&section=header&text=Rana%20Salah&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=building%20things%20that%20move&descAlignY=55&descSize=18" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=while+(alive)+%7B+code();+coffee();+repeat();+%7D;git+commit+-m+%22final+FINAL+v3+actually+final%22;404%3A+sleep+not+found;it+works+on+my+machine+%E2%80%94+ship+it" alt="Typing SVG" />
+
+<br/>
+
+**⬇️ this README is clickable. go on, poke it.**
+
+</div>
 
 ---
 
+## 🎭 Pick your path
+
+<details>
+<summary><b>👔 &nbsp;I'm a recruiter</b> — <sub>click me, I'll behave</sub></summary>
+
+<br/>
+
+Hello! Here's the professional version:
+
+| | |
+|---|---|
+| **Focus** | Computer graphics, image processing, front-end engineering |
+| **Stack** | JavaScript, p5.js, Python, React, Node |
+| **Recent** | Real-time optical flow, motion estimation, panorama stitching, background removal — all hand-rolled, no CV library shortcuts |
+| **Looking for** | Internships & junior roles where I get to build visual things |
+| **Superpower** | I read documentation. All of it. Voluntarily. |
+
+I write code that other people can read six months later. This is, apparently, rare.
+
+</details>
+
+<details>
+<summary><b>🧑‍💻 &nbsp;I'm a fellow dev</b> — <sub>let's talk shop</sub></summary>
+
+<br/>
+
 ```js
 const rana = {
-  role: "CS student & builder of slightly-too-ambitious side projects",
-  currentlyBreaking: ["optical flow", "panorama stitching", "my own build"],
-  askMeAbout: ["JavaScript", "p5.js", "computer graphics", "why my code worked yesterday"],
-  funFact: "I debug by explaining the problem out loud. It works. I don't know why.",
+  pronouns: "she/her",           // ← edit or delete
+  editor: "VS Code + too many extensions",
+  theme: "dark, obviously",
+  tabsOrSpaces: "spaces, and I will not be debating this",
+  hotTake: "if your function needs a comment to explain WHAT it does, rename it",
+  currentlyBreaking: ["optical flow", "panorama seams", "my own build pipeline"],
+  debugMethod: "console.log('here')  →  console.log('HERE')  →  console.log('!!!!!')",
   status: () => Math.random() > 0.5 ? "shipping ✨" : "refactoring the same 3 lines 🔁"
 };
 ```
 
----
+<details>
+<summary><i>…there's another one in here</i></summary>
 
-### 🧪 What I'm up to
+<br/>
 
-- 🔭 Building things that move — image processing, motion estimation, and panoramas that *almost* line up
-- 🌱 Currently leveling up: `graphics programming` → `computer vision` → `world domination` (in that order)
-- 🎨 I believe every project deserves at least one unnecessarily smooth animation
-- 💬 Ask me anything — worst case we both learn something
-- ⚡ Fun fact: my most-used keyboard shortcut is `Ctrl+Z`, and I'm not ashamed
+🪆 You found the nested easter egg. Genuinely, well done — most people don't click twice.
 
----
+Have a fact: the first computer bug was an actual moth. Grace Hopper taped it into the logbook in 1947. It's still there, in the Smithsonian.
 
-### 🛠️ Tools of the trade
+</details>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,react,nodejs,git,github,vscode,figma&theme=dark" />
-</p>
+</details>
 
----
+<details>
+<summary><b>🎲 &nbsp;I clicked this by accident</b> — <sub>stay anyway</sub></summary>
 
-### 📊 The receipts
+<br/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
+Welcome! You are now legally obligated to look at this diagram of my debugging process:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🎯 Currently
-
-```text
-[███████████████░░░░░]  75%  ...loading a personality update
-[████████████████████] 100%  ...caffeine levels
-[██░░░░░░░░░░░░░░░░░░]  10%  ...sleep schedule recovery
+```mermaid
+graph TD
+    A[bug appears] --> B{did I write this?}
+    B -->|yes| C[stare at it]
+    B -->|no| D[blame the library]
+    D --> E[it was me]
+    E --> C
+    C --> F{fixed?}
+    F -->|no| G[add console.log]
+    G --> C
+    F -->|yes| H{do I know why?}
+    H -->|no| I[commit immediately<br/>before it changes its mind]
+    H -->|yes| J[very rare<br/>celebrate]
+    I --> K[✨ ship it ✨]
+    J --> K
 ```
 
+</details>
+
 ---
 
-<p align="center">
-  <a href="mailto:itsranasalah@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+## 🧪 Currently
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=8B5CF6" alt="profile views" />
-</p>
+```text
+  optical flow & motion estimation   [████████████████░░░░]  80%
+  panorama stitching                 [██████████░░░░░░░░░░]  50%
+  learning to name variables well    [███░░░░░░░░░░░░░░░░░]  15%
+  sleep schedule recovery            [█░░░░░░░░░░░░░░░░░░░]   5%
+  caffeine                           [████████████████████] 100%  ⚠️ overflow
+```
 
-<p align="center">
-  <sub><i>Thanks for scrolling this far. Here, have a semicolon on the house:</i> <code>;</code></sub>
-</p>
+<div align="center">
+
+> *"I don't always test my code, but when I do, I do it in production."*
+> — me, right before the incident
+
+</div>
+
+---
+
+## 🛠️ Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,python,react,nodejs,git,github,vscode,figma,vite&theme=dark&perline=6" />
+
+<br/><br/>
+
+<sub>and a p5.js sketch folder I refuse to clean up</sub>
+
+</div>
+
+---
+
+## 📼 Changelog — Rana, the software
+
+<details>
+<summary><b>v3.0.0</b> &nbsp;·&nbsp; <sub>current release</sub></summary>
+
+<br/>
+
+**Added**
+- Ability to read a stack trace without crying
+- Support for writing tests *before* the bug happens (experimental, unstable)
+- Dark mode for everything, including personality
+
+**Changed**
+- Migrated from "it works, don't touch it" to "it works, and here's why"
+- Variable naming improved from `data2Final` → `normalizedFrameBuffer`
+
+**Fixed**
+- Off-by-one error in sleep schedule (still occasionally regresses)
+
+</details>
+
+<details>
+<summary><b>v2.0.0</b> &nbsp;·&nbsp; <sub>the university years</sub></summary>
+
+<br/>
+
+**Added**
+- Computer graphics module — turns out I love making pixels move
+- A dangerous confidence around `for` loops
+
+**Deprecated**
+- Copy-pasting from Stack Overflow without reading the comments
+- The phrase "I'll refactor it later"
+
+**Known issues**
+- Scope creep. Every project. Every time. No fix planned.
+
+</details>
+
+<details>
+<summary><b>v1.0.0</b> &nbsp;·&nbsp; <sub>initial commit</sub></summary>
+
+<br/>
+
+**Added**
+- `Hello, World!`
+- An unreasonable emotional attachment to that first working program
+
+**Notes**
+- No version control. I know. I've grown.
+
+</details>
+
+---
+
+## ❓ FAQ
+
+<details>
+<summary><b>What are you actually good at?</b></summary>
+<br/>
+Breaking a scary problem into ten small boring ones, then doing the boring ones. That's most of engineering, honestly.
+</details>
+
+<details>
+<summary><b>Favourite bug you've ever fixed?</b></summary>
+<br/>
+An image kept rendering upside-down. Three hours. Two coordinate systems, one of them measuring Y from the bottom. I now check axis conventions <i>first</i>, like a person who has suffered.
+</details>
+
+<details>
+<summary><b>Are you going to keep the code comments in?</b></summary>
+<br/>
+Yes. Future me is a stranger and deserves kindness.
+</details>
+
+<details>
+<summary><b>Will you fix my bug if I ask nicely?</b></summary>
+<br/>
+Ask nicely <i>and</i> include a reproduction. Then absolutely.
+</details>
+
+---
+
+## 📊 The receipts
+
+<div align="center">
+
+<!-- NOTE: these come from a shared public service that gets rate-limited.
+     If a card ever shows as broken, that's the host, not you. -->
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=00000000" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000" />
+
+<br/><br/>
+
+<sub><i>Contribution graph currently under construction. I code in bursts, like a cicada. 🦗</i></sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Say hi
+
+<a href="mailto:itsranasalah@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/YOUR_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8B5CF6&label=CURIOUS+HUMANS" alt="profile views" />
+
+<br/><br/>
+
+<sub><i>You scrolled all the way down. Here, have a semicolon on the house:</i></sub>
+<br/>
+<code>;</code>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:6366F1,100:8B5CF6&height=120&section=footer" width="100%" />
+
+</div>
