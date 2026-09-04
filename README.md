@@ -285,12 +285,12 @@ pie showData
 ## 🤝 Say hi
 
 <a href="mailto:itsranasalah@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ranasalaheldeen/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/YOUR_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8B5CF6&label=CURIOUS+HUMANS" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=itsranasalah&style=for-the-badge&color=8B5CF6&label=CURIOUS+HUMANS" alt="profile views" />
 
 <br/><br/>
 
